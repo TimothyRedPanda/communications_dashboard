@@ -1,0 +1,19 @@
+.rbc-month-header {
+  height: 50px;
+  display: flex;
+  overflow-y: visible;
+}
+.rbc-row-content {
+  z-index: unset;
+}
+
+.rbc-header {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  border-left: none!important;
+}
+
+.rbc-today {
+  background-color: #fdfbf1;
+}
